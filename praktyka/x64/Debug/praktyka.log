@@ -1,0 +1,30 @@
+﻿  praktyka.cpp
+d:\agh\praktykitemp\praktyka2 - do inzynierki\praktyka\praktyka\praktyka.cpp(14): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+d:\agh\praktykitemp\praktyka2 - do inzynierki\praktyka\praktyka\praktyka.cpp(24): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+d:\agh\praktykitemp\praktyka2 - do inzynierki\praktyka\praktyka\praktyka.cpp(25): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+d:\agh\praktykitemp\praktyka2 - do inzynierki\praktyka\praktyka\praktyka.cpp(252): warning C4305: "-=": obcięcie z "double" do "float"
+d:\agh\praktykitemp\praktyka2 - do inzynierki\praktyka\praktyka\praktyka.cpp(253): warning C4305: "+=": obcięcie z "double" do "float"
+d:\agh\praktykitemp\praktyka2 - do inzynierki\praktyka\praktyka\praktyka.cpp(254): warning C4305: "+=": obcięcie z "double" do "float"
+d:\agh\praktykitemp\praktyka2 - do inzynierki\praktyka\praktyka\praktyka.cpp(255): warning C4305: "-=": obcięcie z "double" do "float"
+d:\agh\praktykitemp\praktyka2 - do inzynierki\praktyka\praktyka\praktyka.cpp(291): warning C4838: konwersja z „double” do „GLfloat” wymaga konwersji zawężającej
+d:\agh\praktykitemp\praktyka2 - do inzynierki\praktyka\praktyka\praktyka.cpp(291): warning C4244: "inicjowanie": konwersja z "double" do "GLfloat", możliwa utrata danych
+d:\agh\praktykitemp\praktyka2 - do inzynierki\praktyka\praktyka\praktyka.cpp(319): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+d:\agh\praktykitemp\praktyka2 - do inzynierki\praktyka\praktyka\praktyka.cpp(327): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+d:\agh\praktykitemp\praktyka2 - do inzynierki\praktyka\praktyka\praktyka.cpp(353): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+d:\agh\praktykitemp\praktyka2 - do inzynierki\praktyka\praktyka\praktyka.cpp(365): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+d:\agh\praktykitemp\praktyka2 - do inzynierki\praktyka\praktyka\praktyka.cpp(374): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+d:\agh\praktykitemp\praktyka2 - do inzynierki\praktyka\praktyka\praktyka.cpp(378): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+d:\agh\praktykitemp\praktyka2 - do inzynierki\praktyka\praktyka\praktyka.cpp(389): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+d:\agh\praktykitemp\praktyka2 - do inzynierki\praktyka\praktyka\praktyka.cpp(390): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+d:\agh\praktykitemp\praktyka2 - do inzynierki\praktyka\praktyka\praktyka.cpp(399): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+d:\agh\praktykitemp\praktyka2 - do inzynierki\praktyka\praktyka\praktyka.cpp(406): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+d:\agh\praktykitemp\praktyka2 - do inzynierki\praktyka\praktyka\praktyka.cpp(414): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+d:\agh\praktykitemp\praktyka2 - do inzynierki\praktyka\praktyka\praktyka.cpp(419): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+d:\agh\praktykitemp\praktyka2 - do inzynierki\praktyka\praktyka\praktyka.cpp(420): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+d:\agh\praktykitemp\praktyka2 - do inzynierki\praktyka\praktyka\praktyka.cpp(421): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+d:\agh\praktykitemp\praktyka2 - do inzynierki\praktyka\praktyka\praktyka.cpp(422): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+  Ball.cpp
+d:\agh\praktykitemp\praktyka2 - do inzynierki\praktyka\praktyka\ball.cpp(28): warning C4101: "temp": lokalna zmienna, do której nie istnieje odwołanie
+  Generowanie kodu...
+  praktyka.vcxproj -> D:\agh\praktykiTEMP\praktyka2 - do Inzynierki\praktyka\x64\Debug\praktyka.exe
+  praktyka.vcxproj -> D:\agh\praktykiTEMP\praktyka2 - do Inzynierki\praktyka\x64\Debug\praktyka.pdb (Partial PDB)
